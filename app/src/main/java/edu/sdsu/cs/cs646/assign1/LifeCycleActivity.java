@@ -10,6 +10,7 @@ public class LifeCycleActivity extends ActionBarActivity {
 
     private static final String APP_NAME = "Assignment1";
     private StringBuffer message_text = new StringBuffer();
+    private static final String NAME = "Humaira";
 
     /**
      * This message will display the message in the TextView.
