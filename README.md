@@ -1,2 +1,2 @@
-# Android_Assignment1
-Basic lifecylce of an activity in android.
+# Android_Activity Lifecycle
+Basic lifecycle of an activity in android.
